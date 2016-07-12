@@ -1,0 +1,4 @@
+apple.tree,apple-vm apple.tree.com 2016071114 28800 7200 604800 86400
+aaa.apple.tree,192.168.4.100
+bbb.apple.tree,192.168.4.101
+ccc.apple.tree,aaa.apple.tree
